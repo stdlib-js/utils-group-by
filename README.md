@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import groupBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-by@deno/mod.js';
+import groupBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-by@v0.2.3-deno/mod.js';
 ```
 
 #### groupBy( collection, \[options,] indicator )
@@ -183,7 +183,7 @@ console.log( context.count );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import groupBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-by@deno/mod.js';
+import groupBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-group-by@v0.2.3-deno/mod.js';
 
 var vals;
 var arr;
